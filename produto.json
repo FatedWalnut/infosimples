@@ -1,0 +1,107 @@
+{
+  "title": "Rubber Duck MK Ultra",
+  "brand": "Duck Makers Inc.",
+  "categories": [
+    "Commercia",
+    "Health & Care",
+    "Bath",
+    "Rubber Ducks"
+  ],
+  "description": "Rubber ducks are the ultimate necessity for your bath. These duck-dings have been a popular source of novelty for many years and have been considered a true and rare product of the industrial world. They can be used everyday, and are not limited to being used during bath, and even used when not used daily or in special occasions. The Rubber Duck MK Ultra, proudly made by Duck Makers Inc. in Camboja, were first made for the first time in the USA in the early 1980s. The Duck Makers Inc. is a leading manufacturer of rubber ducking products in the world. Without this company, rubber ducking would not be possible. The rubber duck is a small, round object that is usually made of a hard rubber that is used to create a duck-like appearance. It is usually made of a variety of rubber, including natural rubber, polyurethane, polypropylene, polystyrene, and polystyrene-coated rubber. The rubber duck is a popular and successful product of the Duck Makers Inc. The duck-drying method is very popular in the world, and is used for many purposes, including for personal use, for business purposes, and for various other purposes.",
+  "skus": [
+    {
+      "name": "Rubber Duck MK Ultra - Original",
+      "old_price": 9.95,
+      "current_price": 7.95,
+      "available": true
+    },
+    {
+      "name": "Rubber Duck MK Ultra - Summer Version",
+      "old_price": null,
+      "current_price": null,
+      "available": false
+    },
+    {
+      "name": "Rubber Duck MK Ultra - Batman Version",
+      "old_price": null,
+      "current_price": 14.95,
+      "available": true
+    }
+  ],
+  "properties": [
+    {
+      "label": "Color",
+      "value": "Various"
+    },
+    {
+      "label": "Material",
+      "value": "Rubber"
+    },
+    {
+      "label": "Shape",
+      "value": "Ducky"
+    },
+    {
+      "label": "Size",
+      "value": "Medium"
+    },
+    {
+      "label": "Weight",
+      "value": "1.5 kg"
+    },
+    {
+      "label": "Radioactivity Level",
+      "value": "Low"
+    },
+    {
+      "label": "Nutritious value",
+      "value": "-"
+    },
+    {
+      "label": "Origin",
+      "value": "Camboja"
+    },
+    {
+      "label": "Allergenics",
+      "value": "None"
+    },
+    {
+      "label": "Recyclable?",
+      "value": "Yes"
+    },
+    {
+      "label": "Harmful?",
+      "value": "No"
+    },
+    {
+      "label": "Health benefits",
+      "value": "None"
+    },
+    {
+      "label": "Storage temperature",
+      "value": "0 - 25ºC"
+    }
+  ],
+  "review_average_score": 3.3,
+  "reviews": [
+    {
+      "name": "Louisa Eliel",
+      "data": "28/07/2021",
+      "score": 4,
+      "text": "Very good rubber ducks, however I think they are a bit too big for me."
+    },
+    {
+      "name": "Kairo Josué",
+      "data": "12/05/2021",
+      "score": 1,
+      "text": "Péssima qualidade. Já não fazem patos de borracha como antigamente."
+    },
+    {
+      "name": "Victor Huey",
+      "data": "03/04/2021",
+      "score": 5,
+      "text": "Very good"
+    }
+  ],
+  "url": "https://storage.googleapis.com/infosimples-public/commercia/case/product.html"
+}
