@@ -79,7 +79,7 @@ for sku_card in sku_cards_html:
     if sku_old_price is not None:
         sku['old_price'] = float(sku_old_price.get_text().replace('$', '').strip().strip('\n'))
 
-    # IF THE PRICE IS NULL, SO WE CAN ASSUME THE SKU IS OUT OF STOCK.
+    # IF THE PRICE IS NULL, WE CAN ASSUME THE SKU IS OUT OF STOCK.
     if sku_current_price is not None:
         sku['available'] = True
     else:
