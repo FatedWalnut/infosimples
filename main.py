@@ -55,7 +55,7 @@ for row in description_list:
     rows.append(row)
 final_answer['description'] = ' '.join(rows).strip()
 
-# SKUS - arrumar
+# SKUS
 skus_html = parsed_html.find('div', {'class': 'skus-area'})
 sku_cards_html = skus_html.findAll('div', {'class': 'card'})
 final_answer['skus'] = list()
